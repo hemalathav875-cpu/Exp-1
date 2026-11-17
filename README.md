@@ -1,7 +1,7 @@
 ## Exp-1 ATM & BANKING SYSTEM
 ## REGISTER NO:212225230099
 ## DATE:17/11/26
-## IM:
+## AIM:
 To develop an ATM and Banking System to perform basic banking operations like deposit, withdrawal, and balance enquiry.
 
 ## SRS (Procedure):
@@ -19,7 +19,7 @@ To develop an ATM and Banking System to perform basic banking operations like de
 <img width="643" height="436" alt="image" src="https://github.com/user-attachments/assets/bc4ad850-aff2-4566-8e07-4cf9d6a162d2" />
 
 
-## COMMUNICATION DIGARM:
+## COMMUNICATION DIAGARM:
 <img width="636" height="370" alt="image" src="https://github.com/user-attachments/assets/a9064f75-4b3f-4c2a-a423-fca9cebd29ce" />
 
 
